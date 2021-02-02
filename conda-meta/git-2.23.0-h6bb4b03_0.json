@@ -1,0 +1,1666 @@
+{
+  "build": "h6bb4b03_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/anaconda/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\daniu\\anaconda3\\pkgs\\git-2.23.0-h6bb4b03_0",
+  "features": "",
+  "files": [
+    "Library/bin/git.exe",
+    "Library/etc/fstab",
+    "Library/etc/libexec-moved.txt",
+    "Library/etc/nsswitch.conf",
+    "Library/etc/package-versions.txt",
+    "Library/etc/post-install/99-post-install-cleanup.post",
+    "Library/etc/profile.d/bash_profile.sh",
+    "Library/etc/ssh/moduli",
+    "Library/etc/ssh/ssh_config",
+    "Library/etc/ssh/sshd_config",
+    "Library/mingw64/bin/blocked-file-util.exe",
+    "Library/mingw64/bin/busybox.exe",
+    "Library/mingw64/bin/git-askyesno.exe",
+    "Library/mingw64/bin/git-credential-helper-selector.exe",
+    "Library/mingw64/bin/git-credential-store.exe",
+    "Library/mingw64/bin/git-credential-wincred.exe",
+    "Library/mingw64/bin/git-fast-import.exe",
+    "Library/mingw64/bin/git-http-fetch.exe",
+    "Library/mingw64/bin/git-http-push.exe",
+    "Library/mingw64/bin/git-receive-pack.exe",
+    "Library/mingw64/bin/git-remote-http.exe",
+    "Library/mingw64/bin/git-remote-https.exe",
+    "Library/mingw64/bin/git-sh-i18n--envsubst.exe",
+    "Library/mingw64/bin/git-upload-pack.exe",
+    "Library/mingw64/bin/git.exe",
+    "Library/mingw64/bin/jemalloc.sh",
+    "Library/mingw64/bin/jeprof",
+    "Library/mingw64/bin/libcrypto-1_1-x64.dll",
+    "Library/mingw64/bin/libcurl-4.dll",
+    "Library/mingw64/bin/libexpat-1.dll",
+    "Library/mingw64/bin/libffi-6.dll",
+    "Library/mingw64/bin/libgmp-10.dll",
+    "Library/mingw64/bin/libiconv-2.dll",
+    "Library/mingw64/bin/libidn2-0.dll",
+    "Library/mingw64/bin/libintl-8.dll",
+    "Library/mingw64/bin/libjemalloc.dll",
+    "Library/mingw64/bin/libnghttp2-14.dll",
+    "Library/mingw64/bin/libpcre2-16-0.dll",
+    "Library/mingw64/bin/libpcre2-32-0.dll",
+    "Library/mingw64/bin/libpcre2-8-0.dll",
+    "Library/mingw64/bin/libpcre2-posix-2.dll",
+    "Library/mingw64/bin/libssh2-1.dll",
+    "Library/mingw64/bin/libssl-1_1-x64.dll",
+    "Library/mingw64/bin/libssp-0.dll",
+    "Library/mingw64/bin/libtasn1-6.dll",
+    "Library/mingw64/bin/libunistring-2.dll",
+    "Library/mingw64/bin/libwinpthread-1.dll",
+    "Library/mingw64/bin/pcre2-config",
+    "Library/mingw64/bin/proxy-lookup.exe",
+    "Library/mingw64/bin/zlib1.dll",
+    "Library/mingw64/doc/git-credential-manager/LICENSE.txt",
+    "Library/mingw64/doc/git-credential-manager/README.md",
+    "Library/mingw64/etc/gitconfig",
+    "Library/mingw64/lib/engines-1_1/capi.dll",
+    "Library/mingw64/lib/engines-1_1/padlock.dll",
+    "Library/mingw64/libexec/git-core/AzureDevOps.Authentication.dll",
+    "Library/mingw64/libexec/git-core/Bitbucket.Authentication.dll",
+    "Library/mingw64/libexec/git-core/GitHub.Authentication.exe",
+    "Library/mingw64/libexec/git-core/Microsoft.Alm.Authentication.dll",
+    "Library/mingw64/libexec/git-core/Microsoft.IdentityModel.Clients.ActiveDirectory.dll",
+    "Library/mingw64/libexec/git-core/git-askpass.exe",
+    "Library/mingw64/libexec/git-core/git-bisect",
+    "Library/mingw64/libexec/git-core/git-credential-manager.exe",
+    "Library/mingw64/libexec/git-core/git-filter-branch",
+    "Library/mingw64/libexec/git-core/git-legacy-stash",
+    "Library/mingw64/libexec/git-core/git-merge-octopus",
+    "Library/mingw64/libexec/git-core/git-merge-one-file",
+    "Library/mingw64/libexec/git-core/git-merge-resolve",
+    "Library/mingw64/libexec/git-core/git-mergetool",
+    "Library/mingw64/libexec/git-core/git-mergetool--lib",
+    "Library/mingw64/libexec/git-core/git-parse-remote",
+    "Library/mingw64/libexec/git-core/git-quiltimport",
+    "Library/mingw64/libexec/git-core/git-rebase--preserve-merges",
+    "Library/mingw64/libexec/git-core/git-request-pull",
+    "Library/mingw64/libexec/git-core/git-sh-i18n",
+    "Library/mingw64/libexec/git-core/git-sh-setup",
+    "Library/mingw64/libexec/git-core/git-submodule",
+    "Library/mingw64/libexec/git-core/git-subtree",
+    "Library/mingw64/libexec/git-core/git-update",
+    "Library/mingw64/libexec/git-core/git-web--browse",
+    "Library/mingw64/libexec/git-core/mergetools/araxis",
+    "Library/mingw64/libexec/git-core/mergetools/bc",
+    "Library/mingw64/libexec/git-core/mergetools/bc3",
+    "Library/mingw64/libexec/git-core/mergetools/codecompare",
+    "Library/mingw64/libexec/git-core/mergetools/deltawalker",
+    "Library/mingw64/libexec/git-core/mergetools/diffmerge",
+    "Library/mingw64/libexec/git-core/mergetools/diffuse",
+    "Library/mingw64/libexec/git-core/mergetools/ecmerge",
+    "Library/mingw64/libexec/git-core/mergetools/emerge",
+    "Library/mingw64/libexec/git-core/mergetools/examdiff",
+    "Library/mingw64/libexec/git-core/mergetools/guiffy",
+    "Library/mingw64/libexec/git-core/mergetools/gvimdiff",
+    "Library/mingw64/libexec/git-core/mergetools/gvimdiff2",
+    "Library/mingw64/libexec/git-core/mergetools/gvimdiff3",
+    "Library/mingw64/libexec/git-core/mergetools/kdiff3",
+    "Library/mingw64/libexec/git-core/mergetools/kompare",
+    "Library/mingw64/libexec/git-core/mergetools/meld",
+    "Library/mingw64/libexec/git-core/mergetools/opendiff",
+    "Library/mingw64/libexec/git-core/mergetools/p4merge",
+    "Library/mingw64/libexec/git-core/mergetools/smerge",
+    "Library/mingw64/libexec/git-core/mergetools/tkdiff",
+    "Library/mingw64/libexec/git-core/mergetools/tortoisemerge",
+    "Library/mingw64/libexec/git-core/mergetools/vimdiff",
+    "Library/mingw64/libexec/git-core/mergetools/vimdiff2",
+    "Library/mingw64/libexec/git-core/mergetools/vimdiff3",
+    "Library/mingw64/libexec/git-core/mergetools/winmerge",
+    "Library/mingw64/libexec/git-core/mergetools/xxdiff",
+    "Library/mingw64/share/doc/expat/AUTHORS",
+    "Library/mingw64/share/doc/expat/changelog",
+    "Library/mingw64/share/doc/jemalloc/jemalloc.html",
+    "Library/mingw64/share/doc/mpfr/AUTHORS",
+    "Library/mingw64/share/doc/mpfr/BUGS",
+    "Library/mingw64/share/doc/mpfr/COPYING",
+    "Library/mingw64/share/doc/mpfr/COPYING.LESSER",
+    "Library/mingw64/share/doc/mpfr/FAQ.html",
+    "Library/mingw64/share/doc/mpfr/NEWS",
+    "Library/mingw64/share/doc/mpfr/TODO",
+    "Library/mingw64/share/doc/mpfr/examples/ReadMe",
+    "Library/mingw64/share/git-core/templates/description",
+    "Library/mingw64/share/git-core/templates/hooks/applypatch-msg.sample",
+    "Library/mingw64/share/git-core/templates/hooks/commit-msg.sample",
+    "Library/mingw64/share/git-core/templates/hooks/fsmonitor-watchman.sample",
+    "Library/mingw64/share/git-core/templates/hooks/post-update.sample",
+    "Library/mingw64/share/git-core/templates/hooks/pre-applypatch.sample",
+    "Library/mingw64/share/git-core/templates/hooks/pre-commit.sample",
+    "Library/mingw64/share/git-core/templates/hooks/pre-push.sample",
+    "Library/mingw64/share/git-core/templates/hooks/pre-rebase.sample",
+    "Library/mingw64/share/git-core/templates/hooks/pre-receive.sample",
+    "Library/mingw64/share/git-core/templates/hooks/prepare-commit-msg.sample",
+    "Library/mingw64/share/git-core/templates/hooks/update.sample",
+    "Library/mingw64/share/git-core/templates/info/exclude",
+    "Library/mingw64/share/git/git-wrapper.exe",
+    "Library/mingw64/share/licenses/expat/COPYING",
+    "Library/mingw64/share/licenses/gcc-libs/COPYING.LIB",
+    "Library/mingw64/share/licenses/gcc-libs/COPYING.RUNTIME",
+    "Library/mingw64/share/licenses/gcc-libs/COPYING3",
+    "Library/mingw64/share/licenses/gcc-libs/README",
+    "Library/mingw64/share/licenses/gettext/COPYING",
+    "Library/mingw64/share/licenses/gettext/gettext-runtime/COPYING",
+    "Library/mingw64/share/licenses/gettext/gettext-runtime/intl/COPYING.LIB",
+    "Library/mingw64/share/licenses/gettext/gettext-runtime/libasprintf/COPYING",
+    "Library/mingw64/share/licenses/gettext/gettext-runtime/libasprintf/COPYING.LIB",
+    "Library/mingw64/share/licenses/gettext/gettext-tools/COPYING",
+    "Library/mingw64/share/licenses/gettext/gettext-tools/gnulib-lib/libxml/COPYING",
+    "Library/mingw64/share/licenses/gettext/gnulib-local/lib/libxml/COPYING",
+    "Library/mingw64/share/licenses/jemalloc/COPYING",
+    "Library/mingw64/share/licenses/libffi/LICENSE",
+    "Library/mingw64/share/licenses/libiconv/COPYING",
+    "Library/mingw64/share/licenses/libiconv/COPYING.LIB",
+    "Library/mingw64/share/licenses/libiconv/README",
+    "Library/mingw64/share/licenses/libiconv/libcharset/COPYING.LIB",
+    "Library/mingw64/share/licenses/libssh2/LICENSE",
+    "Library/mingw64/share/licenses/libtasn1/LICENSE",
+    "Library/mingw64/share/licenses/libunistring/LICENSE",
+    "Library/mingw64/share/licenses/libwinpthread/COPYING",
+    "Library/mingw64/share/licenses/libwinpthread/mingw-w64-libraries/winpthreads/COPYING",
+    "Library/mingw64/share/licenses/openssl/LICENSE",
+    "Library/mingw64/share/licenses/pcre2/COPYING",
+    "Library/mingw64/share/licenses/pcre2/LICENCE",
+    "Library/mingw64/share/licenses/zlib/LICENSE",
+    "Library/mingw64/ssl/cert.pem",
+    "Library/mingw64/ssl/certs/ca-bundle.crt",
+    "Library/mingw64/ssl/certs/ca-bundle.trust.crt",
+    "Library/mingw64/ssl/ct_log_list.cnf",
+    "Library/mingw64/ssl/ct_log_list.cnf.dist",
+    "Library/mingw64/ssl/openssl.cnf",
+    "Library/mingw64/ssl/openssl.cnf.dist",
+    "Library/usr/bin/chattr.exe",
+    "Library/usr/bin/cmp.exe",
+    "Library/usr/bin/diff.exe",
+    "Library/usr/bin/diff3.exe",
+    "Library/usr/bin/gencat.exe",
+    "Library/usr/bin/lsattr.exe",
+    "Library/usr/bin/msys-2.0.dll",
+    "Library/usr/bin/msys-asn1-8.dll",
+    "Library/usr/bin/msys-com_err-1.dll",
+    "Library/usr/bin/msys-crypt-0.dll",
+    "Library/usr/bin/msys-crypto-1.1.dll",
+    "Library/usr/bin/msys-gcc_s-seh-1.dll",
+    "Library/usr/bin/msys-gssapi-3.dll",
+    "Library/usr/bin/msys-hcrypto-4.dll",
+    "Library/usr/bin/msys-heimbase-1.dll",
+    "Library/usr/bin/msys-heimntlm-0.dll",
+    "Library/usr/bin/msys-hx509-5.dll",
+    "Library/usr/bin/msys-krb5-26.dll",
+    "Library/usr/bin/msys-roken-18.dll",
+    "Library/usr/bin/msys-sqlite3-0.dll",
+    "Library/usr/bin/msys-wind-0.dll",
+    "Library/usr/bin/msys-z.dll",
+    "Library/usr/bin/rebase.exe",
+    "Library/usr/bin/rebaseall",
+    "Library/usr/bin/sdiff.exe",
+    "Library/usr/bin/ssh-add.exe",
+    "Library/usr/bin/ssh-agent.exe",
+    "Library/usr/bin/ssh.exe",
+    "Library/usr/libexec/getprocaddr32.exe",
+    "Library/usr/libexec/getprocaddr64.exe",
+    "Library/usr/share/bash-completion/completions/sdk",
+    "Library/usr/share/licenses/gcc-libs/RUNTIME.LIBRARY.EXCEPTION",
+    "Library/usr/share/licenses/libsqlite/LICENSE",
+    "Library/usr/share/licenses/openssh/LICENCE",
+    "Library/usr/share/licenses/zlib/LICENSE",
+    "Library/usr/share/makepkg/lint_package/zzz_rm_stackdumps.sh",
+    "Library/usr/share/nano/git.nanorc",
+    ".nonadmin"
+  ],
+  "fn": "git-2.23.0-h6bb4b03_0.tar.bz2",
+  "license": "GPL v2 and LGPL 2.1",
+  "link": {
+    "source": "C:\\Users\\daniu\\anaconda3\\pkgs\\git-2.23.0-h6bb4b03_0",
+    "type": 1
+  },
+  "md5": "85276576550cc86f1074ab65301fa466",
+  "name": "git",
+  "package_tarball_full_path": "C:\\Users\\daniu\\anaconda3\\pkgs\\git-2.23.0-h6bb4b03_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/git.exe",
+        "path_type": "hardlink",
+        "sha256": "76fd5413245e57adffc2fce20c6ce22a361b43be13bb145667c829b70809d40e",
+        "sha256_in_prefix": "76fd5413245e57adffc2fce20c6ce22a361b43be13bb145667c829b70809d40e",
+        "size_in_bytes": 43096
+      },
+      {
+        "_path": "Library/etc/fstab",
+        "path_type": "hardlink",
+        "sha256": "29c779198587fe4cc65bf43fb9dc576e925ac70b8c3b5f28ca44d4143e69b92b",
+        "sha256_in_prefix": "29c779198587fe4cc65bf43fb9dc576e925ac70b8c3b5f28ca44d4143e69b92b",
+        "size_in_bytes": 271
+      },
+      {
+        "_path": "Library/etc/libexec-moved.txt",
+        "path_type": "hardlink",
+        "sha256": "61414f7454147e153e8e5937bb4d5834e5ca7e578b9162174e189be5973468fe",
+        "sha256_in_prefix": "61414f7454147e153e8e5937bb4d5834e5ca7e578b9162174e189be5973468fe",
+        "size_in_bytes": 409
+      },
+      {
+        "_path": "Library/etc/nsswitch.conf",
+        "path_type": "hardlink",
+        "sha256": "0823a988d6c923855be5565bed6f1900e1899ee60513a58ad550389bed276f14",
+        "sha256_in_prefix": "0823a988d6c923855be5565bed6f1900e1899ee60513a58ad550389bed276f14",
+        "size_in_bytes": 211
+      },
+      {
+        "_path": "Library/etc/package-versions.txt",
+        "path_type": "hardlink",
+        "sha256": "82decb0355fb971bfa1bc6e162a60697bad747630d07f458fd8d40563892fa93",
+        "sha256_in_prefix": "82decb0355fb971bfa1bc6e162a60697bad747630d07f458fd8d40563892fa93",
+        "size_in_bytes": 1104
+      },
+      {
+        "_path": "Library/etc/post-install/99-post-install-cleanup.post",
+        "path_type": "hardlink",
+        "sha256": "683ab066be19cb4defec470ebd53f165ca5dbf761fd40c13aee8abe31ba42803",
+        "sha256_in_prefix": "683ab066be19cb4defec470ebd53f165ca5dbf761fd40c13aee8abe31ba42803",
+        "size_in_bytes": 204
+      },
+      {
+        "_path": "Library/etc/profile.d/bash_profile.sh",
+        "path_type": "hardlink",
+        "sha256": "02d38e480a1ec4227e94a5aa073945901680aa3387e3386f8b77f10426ebbc75",
+        "sha256_in_prefix": "02d38e480a1ec4227e94a5aa073945901680aa3387e3386f8b77f10426ebbc75",
+        "size_in_bytes": 515
+      },
+      {
+        "_path": "Library/etc/ssh/moduli",
+        "path_type": "hardlink",
+        "sha256": "dd20c204d77670dc8b4943e921b1af6b9102afdb18d5471996eb88b4e616a935",
+        "sha256_in_prefix": "dd20c204d77670dc8b4943e921b1af6b9102afdb18d5471996eb88b4e616a935",
+        "size_in_bytes": 577388
+      },
+      {
+        "_path": "Library/etc/ssh/ssh_config",
+        "path_type": "hardlink",
+        "sha256": "e53f17dc1f94cb133f80e65ab50865f57f2ed08229addc716b89c1f026508e77",
+        "sha256_in_prefix": "e53f17dc1f94cb133f80e65ab50865f57f2ed08229addc716b89c1f026508e77",
+        "size_in_bytes": 1556
+      },
+      {
+        "_path": "Library/etc/ssh/sshd_config",
+        "path_type": "hardlink",
+        "sha256": "3e13faf53ad225a1375ad77372e94d080ec8127d2721342d453be388fcd3e9fb",
+        "sha256_in_prefix": "3e13faf53ad225a1375ad77372e94d080ec8127d2721342d453be388fcd3e9fb",
+        "size_in_bytes": 3122
+      },
+      {
+        "_path": "Library/mingw64/bin/blocked-file-util.exe",
+        "path_type": "hardlink",
+        "sha256": "e2262e5e0db9f455aa303735015e603d245a64d79b2d212fec064d048ecf8c63",
+        "sha256_in_prefix": "e2262e5e0db9f455aa303735015e603d245a64d79b2d212fec064d048ecf8c63",
+        "size_in_bytes": 23129
+      },
+      {
+        "_path": "Library/mingw64/bin/busybox.exe",
+        "path_type": "hardlink",
+        "sha256": "f46547c7a3553f070a658068ec2cbdfb76fa9728a9fc9f5f382ef0542f5b0f3c",
+        "sha256_in_prefix": "f46547c7a3553f070a658068ec2cbdfb76fa9728a9fc9f5f382ef0542f5b0f3c",
+        "size_in_bytes": 603136
+      },
+      {
+        "_path": "Library/mingw64/bin/git-askyesno.exe",
+        "path_type": "hardlink",
+        "sha256": "2b9b4b660b7ceb1ddd598dbd867d1f1ecbf112adff38c6291a7c5df012bf835c",
+        "sha256_in_prefix": "2b9b4b660b7ceb1ddd598dbd867d1f1ecbf112adff38c6291a7c5df012bf835c",
+        "size_in_bytes": 21227
+      },
+      {
+        "_path": "Library/mingw64/bin/git-credential-helper-selector.exe",
+        "path_type": "hardlink",
+        "sha256": "7227e13d0bd92ef53d1512b976df6cc9026e1f9950d0ee77d2153169ebdadbe1",
+        "sha256_in_prefix": "7227e13d0bd92ef53d1512b976df6cc9026e1f9950d0ee77d2153169ebdadbe1",
+        "size_in_bytes": 37031
+      },
+      {
+        "_path": "Library/mingw64/bin/git-credential-store.exe",
+        "path_type": "hardlink",
+        "sha256": "ccc5d850e9711866338107fc2b4ef44f39aa71c5e074e5d7385ce860de39e69a",
+        "sha256_in_prefix": "ccc5d850e9711866338107fc2b4ef44f39aa71c5e074e5d7385ce860de39e69a",
+        "size_in_bytes": 1793640
+      },
+      {
+        "_path": "Library/mingw64/bin/git-credential-wincred.exe",
+        "path_type": "hardlink",
+        "sha256": "b33becc17c92bb5a6dc85452001f1d983568269bd61107b829197bf6b469894e",
+        "sha256_in_prefix": "b33becc17c92bb5a6dc85452001f1d983568269bd61107b829197bf6b469894e",
+        "size_in_bytes": 33408
+      },
+      {
+        "_path": "Library/mingw64/bin/git-fast-import.exe",
+        "path_type": "hardlink",
+        "sha256": "becbc58e1dd0d1de149a06cf0c932d97889584a75e41be23cf7d9bf7036320fd",
+        "sha256_in_prefix": "becbc58e1dd0d1de149a06cf0c932d97889584a75e41be23cf7d9bf7036320fd",
+        "size_in_bytes": 1825888
+      },
+      {
+        "_path": "Library/mingw64/bin/git-http-fetch.exe",
+        "path_type": "hardlink",
+        "sha256": "3530e7d388c7ea700b3c5143334cced847da36355cbd08164389a7af2b6a0013",
+        "sha256_in_prefix": "3530e7d388c7ea700b3c5143334cced847da36355cbd08164389a7af2b6a0013",
+        "size_in_bytes": 1836128
+      },
+      {
+        "_path": "Library/mingw64/bin/git-http-push.exe",
+        "path_type": "hardlink",
+        "sha256": "b4ef730141036cf19607ddc1cc487aea23ca9d6c639bd5a9701669ae2d8d5456",
+        "sha256_in_prefix": "b4ef730141036cf19607ddc1cc487aea23ca9d6c639bd5a9701669ae2d8d5456",
+        "size_in_bytes": 1847904
+      },
+      {
+        "_path": "Library/mingw64/bin/git-receive-pack.exe",
+        "path_type": "hardlink",
+        "sha256": "e007c8f3932959c3896f52c490c302ffe8bd9de0b911b26aa1ede650bc19b39f",
+        "sha256_in_prefix": "e007c8f3932959c3896f52c490c302ffe8bd9de0b911b26aa1ede650bc19b39f",
+        "size_in_bytes": 43104
+      },
+      {
+        "_path": "Library/mingw64/bin/git-remote-http.exe",
+        "path_type": "hardlink",
+        "sha256": "b78de60369cf42d987dbc16208aac8d7f336ecacc5984f5083792aefa222f070",
+        "sha256_in_prefix": "b78de60369cf42d987dbc16208aac8d7f336ecacc5984f5083792aefa222f070",
+        "size_in_bytes": 1852000
+      },
+      {
+        "_path": "Library/mingw64/bin/git-remote-https.exe",
+        "path_type": "hardlink",
+        "sha256": "b78de60369cf42d987dbc16208aac8d7f336ecacc5984f5083792aefa222f070",
+        "sha256_in_prefix": "b78de60369cf42d987dbc16208aac8d7f336ecacc5984f5083792aefa222f070",
+        "size_in_bytes": 1852000
+      },
+      {
+        "_path": "Library/mingw64/bin/git-sh-i18n--envsubst.exe",
+        "path_type": "hardlink",
+        "sha256": "68d923fe32b0c58ae01572485784ec278a68c86874afd6dd9f08f84521b968b0",
+        "sha256_in_prefix": "68d923fe32b0c58ae01572485784ec278a68c86874afd6dd9f08f84521b968b0",
+        "size_in_bytes": 1783400
+      },
+      {
+        "_path": "Library/mingw64/bin/git-upload-pack.exe",
+        "path_type": "hardlink",
+        "sha256": "e007c8f3932959c3896f52c490c302ffe8bd9de0b911b26aa1ede650bc19b39f",
+        "sha256_in_prefix": "e007c8f3932959c3896f52c490c302ffe8bd9de0b911b26aa1ede650bc19b39f",
+        "size_in_bytes": 43104
+      },
+      {
+        "_path": "Library/mingw64/bin/git.exe",
+        "path_type": "hardlink",
+        "sha256": "9c4c78270856c063278d2f796d0170763c72a0e2269d01dd4d8b0451577e4897",
+        "sha256_in_prefix": "9c4c78270856c063278d2f796d0170763c72a0e2269d01dd4d8b0451577e4897",
+        "size_in_bytes": 3054680
+      },
+      {
+        "_path": "Library/mingw64/bin/jemalloc.sh",
+        "path_type": "hardlink",
+        "sha256": "cfd0ec8570b0ffc84acd230daf9387694cd45972f538b5d2f84e316a57dc6a75",
+        "sha256_in_prefix": "cfd0ec8570b0ffc84acd230daf9387694cd45972f538b5d2f84e316a57dc6a75",
+        "size_in_bytes": 140
+      },
+      {
+        "_path": "Library/mingw64/bin/jeprof",
+        "path_type": "hardlink",
+        "sha256": "dfb3e4f4eaf4c3ff7e2f02281329b31ffd810e39606560ba58af2c36825ff7d9",
+        "sha256_in_prefix": "dfb3e4f4eaf4c3ff7e2f02281329b31ffd810e39606560ba58af2c36825ff7d9",
+        "size_in_bytes": 179224
+      },
+      {
+        "_path": "Library/mingw64/bin/libcrypto-1_1-x64.dll",
+        "path_type": "hardlink",
+        "sha256": "30f4416e9eae1fa710bbf73f9e36867acd67dcee8407439a9c0e47a4f9417bee",
+        "sha256_in_prefix": "30f4416e9eae1fa710bbf73f9e36867acd67dcee8407439a9c0e47a4f9417bee",
+        "size_in_bytes": 2920597
+      },
+      {
+        "_path": "Library/mingw64/bin/libcurl-4.dll",
+        "path_type": "hardlink",
+        "sha256": "d95edea6748cd58fd8fe3668c25d937e6451712e9e3e9a7b73aab170ee2e9a3b",
+        "sha256_in_prefix": "d95edea6748cd58fd8fe3668c25d937e6451712e9e3e9a7b73aab170ee2e9a3b",
+        "size_in_bytes": 546452
+      },
+      {
+        "_path": "Library/mingw64/bin/libexpat-1.dll",
+        "path_type": "hardlink",
+        "sha256": "e5ce0ed8a53ca0748ef8d0b1ba48e633d947080ad6136396f3796167ed13752d",
+        "sha256_in_prefix": "e5ce0ed8a53ca0748ef8d0b1ba48e633d947080ad6136396f3796167ed13752d",
+        "size_in_bytes": 183228
+      },
+      {
+        "_path": "Library/mingw64/bin/libffi-6.dll",
+        "path_type": "hardlink",
+        "sha256": "077ed959cd9ab1bf8f9e2ed248a0cb6492a18fd2ba283f52896125412ead121d",
+        "sha256_in_prefix": "077ed959cd9ab1bf8f9e2ed248a0cb6492a18fd2ba283f52896125412ead121d",
+        "size_in_bytes": 34176
+      },
+      {
+        "_path": "Library/mingw64/bin/libgmp-10.dll",
+        "path_type": "hardlink",
+        "sha256": "daa0a2d32134a108ab3af38899d8b6cf4bfc75e3d1d7c3a890a25cedd018afa1",
+        "sha256_in_prefix": "daa0a2d32134a108ab3af38899d8b6cf4bfc75e3d1d7c3a890a25cedd018afa1",
+        "size_in_bytes": 509691
+      },
+      {
+        "_path": "Library/mingw64/bin/libiconv-2.dll",
+        "path_type": "hardlink",
+        "sha256": "1a821165c375b54969014f5bd9f8323792fa7ab436e8a3b1f7bfc7cd547ef475",
+        "sha256_in_prefix": "1a821165c375b54969014f5bd9f8323792fa7ab436e8a3b1f7bfc7cd547ef475",
+        "size_in_bytes": 1055522
+      },
+      {
+        "_path": "Library/mingw64/bin/libidn2-0.dll",
+        "path_type": "hardlink",
+        "sha256": "f204af15153d22cbeac7590824bd0ed29662a7ad2ab78c0a4a76e79a3e5cd69b",
+        "sha256_in_prefix": "f204af15153d22cbeac7590824bd0ed29662a7ad2ab78c0a4a76e79a3e5cd69b",
+        "size_in_bytes": 154650
+      },
+      {
+        "_path": "Library/mingw64/bin/libintl-8.dll",
+        "path_type": "hardlink",
+        "sha256": "6625b662ade69bd824f2da4d17c1851dc62ddaa3e45d95a6e5a10f6c22743c8b",
+        "sha256_in_prefix": "6625b662ade69bd824f2da4d17c1851dc62ddaa3e45d95a6e5a10f6c22743c8b",
+        "size_in_bytes": 135218
+      },
+      {
+        "_path": "Library/mingw64/bin/libjemalloc.dll",
+        "path_type": "hardlink",
+        "sha256": "cfd2e701499bdfef76cee27b2dc680ba5caeace20a0c30a95a8377b5cd69b4d7",
+        "sha256_in_prefix": "cfd2e701499bdfef76cee27b2dc680ba5caeace20a0c30a95a8377b5cd69b4d7",
+        "size_in_bytes": 535072
+      },
+      {
+        "_path": "Library/mingw64/bin/libnghttp2-14.dll",
+        "path_type": "hardlink",
+        "sha256": "d21dbaf8f8465a4a2b288c0410bf68f25fc12dd2d203c4f2acef328c519bd9b8",
+        "sha256_in_prefix": "d21dbaf8f8465a4a2b288c0410bf68f25fc12dd2d203c4f2acef328c519bd9b8",
+        "size_in_bytes": 163511
+      },
+      {
+        "_path": "Library/mingw64/bin/libpcre2-16-0.dll",
+        "path_type": "hardlink",
+        "sha256": "d3eb516296f92f1ae6c505549cf62b54252bc35e0d9cd6361120155e0358fd60",
+        "sha256_in_prefix": "d3eb516296f92f1ae6c505549cf62b54252bc35e0d9cd6361120155e0358fd60",
+        "size_in_bytes": 527238
+      },
+      {
+        "_path": "Library/mingw64/bin/libpcre2-32-0.dll",
+        "path_type": "hardlink",
+        "sha256": "697ad08c70e010462de60be33ad2066ae11d14c8cf34c994c89e64b23d3fe4e2",
+        "sha256_in_prefix": "697ad08c70e010462de60be33ad2066ae11d14c8cf34c994c89e64b23d3fe4e2",
+        "size_in_bytes": 497542
+      },
+      {
+        "_path": "Library/mingw64/bin/libpcre2-8-0.dll",
+        "path_type": "hardlink",
+        "sha256": "4b7c3af719c65ce4f58abbb168cacb97d7a62935cbb711744b69dd3b058d5079",
+        "sha256_in_prefix": "4b7c3af719c65ce4f58abbb168cacb97d7a62935cbb711744b69dd3b058d5079",
+        "size_in_bytes": 584613
+      },
+      {
+        "_path": "Library/mingw64/bin/libpcre2-posix-2.dll",
+        "path_type": "hardlink",
+        "sha256": "a70e94a14233f702d923af4ccd9ceb9eec99aa8cdd55d2ee4d06ec75f5ba8f2c",
+        "sha256_in_prefix": "a70e94a14233f702d923af4ccd9ceb9eec99aa8cdd55d2ee4d06ec75f5ba8f2c",
+        "size_in_bytes": 42920
+      },
+      {
+        "_path": "Library/mingw64/bin/libssh2-1.dll",
+        "path_type": "hardlink",
+        "sha256": "3fa3149cff1c26298a615db9c81306f69f30b37e9fbb68136999c36741f33f0f",
+        "sha256_in_prefix": "3fa3149cff1c26298a615db9c81306f69f30b37e9fbb68136999c36741f33f0f",
+        "size_in_bytes": 257768
+      },
+      {
+        "_path": "Library/mingw64/bin/libssl-1_1-x64.dll",
+        "path_type": "hardlink",
+        "sha256": "9f13b2dd4bacf145a4f844d5d56b891ebfc8591b4b55601381ade949c169d844",
+        "sha256_in_prefix": "9f13b2dd4bacf145a4f844d5d56b891ebfc8591b4b55601381ade949c169d844",
+        "size_in_bytes": 558226
+      },
+      {
+        "_path": "Library/mingw64/bin/libssp-0.dll",
+        "path_type": "hardlink",
+        "sha256": "f9462a507d69d9f07ef3638201e7545444c6f63221b86f278cd7dde6a5d181fd",
+        "sha256_in_prefix": "f9462a507d69d9f07ef3638201e7545444c6f63221b86f278cd7dde6a5d181fd",
+        "size_in_bytes": 21134
+      },
+      {
+        "_path": "Library/mingw64/bin/libtasn1-6.dll",
+        "path_type": "hardlink",
+        "sha256": "400b653c07044631fd8aaa9727b1502ea0b0a6373b8cab4c33ca0fdf472bec31",
+        "sha256_in_prefix": "400b653c07044631fd8aaa9727b1502ea0b0a6373b8cab4c33ca0fdf472bec31",
+        "size_in_bytes": 99433
+      },
+      {
+        "_path": "Library/mingw64/bin/libunistring-2.dll",
+        "path_type": "hardlink",
+        "sha256": "33fba340e85f7c6036f994f1a43ab3194d530fe973af9fb09c26681fec8bb564",
+        "sha256_in_prefix": "33fba340e85f7c6036f994f1a43ab3194d530fe973af9fb09c26681fec8bb564",
+        "size_in_bytes": 1882566
+      },
+      {
+        "_path": "Library/mingw64/bin/libwinpthread-1.dll",
+        "path_type": "hardlink",
+        "sha256": "a8fef96349f8c84a6626ac31bdd6872f1104b09037a9846b1633d905745940f5",
+        "sha256_in_prefix": "a8fef96349f8c84a6626ac31bdd6872f1104b09037a9846b1633d905745940f5",
+        "size_in_bytes": 56844
+      },
+      {
+        "_path": "Library/mingw64/bin/pcre2-config",
+        "path_type": "hardlink",
+        "sha256": "871970f3cecc503e7197a5420d491274cf79d8b8a08e7c4a9d25442837f1b486",
+        "sha256_in_prefix": "871970f3cecc503e7197a5420d491274cf79d8b8a08e7c4a9d25442837f1b486",
+        "size_in_bytes": 2177
+      },
+      {
+        "_path": "Library/mingw64/bin/proxy-lookup.exe",
+        "path_type": "hardlink",
+        "sha256": "198ab92c6f49e9918785c758abcf033fcf84977a1a46855b318894d32590d780",
+        "sha256_in_prefix": "198ab92c6f49e9918785c758abcf033fcf84977a1a46855b318894d32590d780",
+        "size_in_bytes": 22543
+      },
+      {
+        "_path": "Library/mingw64/bin/zlib1.dll",
+        "path_type": "hardlink",
+        "sha256": "42566cadd56feb726be5544bf5552aa8d4009b415906a2e7ae7945212b16cfb8",
+        "sha256_in_prefix": "42566cadd56feb726be5544bf5552aa8d4009b415906a2e7ae7945212b16cfb8",
+        "size_in_bytes": 93720
+      },
+      {
+        "_path": "Library/mingw64/doc/git-credential-manager/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "6743f4add83ff66e21bfad47e5e9345f20b6b7030448d75f0f699d78bdba9e05",
+        "sha256_in_prefix": "6743f4add83ff66e21bfad47e5e9345f20b6b7030448d75f0f699d78bdba9e05",
+        "size_in_bytes": 1155
+      },
+      {
+        "_path": "Library/mingw64/doc/git-credential-manager/README.md",
+        "path_type": "hardlink",
+        "sha256": "d958ef9d3bb47a6da131751885826916619e1ba4a15dae4bf723d3a8ae83f10a",
+        "sha256_in_prefix": "d958ef9d3bb47a6da131751885826916619e1ba4a15dae4bf723d3a8ae83f10a",
+        "size_in_bytes": 8639
+      },
+      {
+        "_path": "Library/mingw64/etc/gitconfig",
+        "path_type": "hardlink",
+        "sha256": "99da330bba9fc04812038f8eb8479bbc45d46820bf7de4b5322defbf93fda0a7",
+        "sha256_in_prefix": "99da330bba9fc04812038f8eb8479bbc45d46820bf7de4b5322defbf93fda0a7",
+        "size_in_bytes": 420
+      },
+      {
+        "_path": "Library/mingw64/lib/engines-1_1/capi.dll",
+        "path_type": "hardlink",
+        "sha256": "3ecf488ba24cdef3b97aa7ba3c4c8cf5c13891b2299f2a8703d13405eb57c46e",
+        "sha256_in_prefix": "3ecf488ba24cdef3b97aa7ba3c4c8cf5c13891b2299f2a8703d13405eb57c46e",
+        "size_in_bytes": 46224
+      },
+      {
+        "_path": "Library/mingw64/lib/engines-1_1/padlock.dll",
+        "path_type": "hardlink",
+        "sha256": "149e65eb186ce828666558d1409dc1e0039d466a207c36e0832a53641b60dec2",
+        "sha256_in_prefix": "149e65eb186ce828666558d1409dc1e0039d466a207c36e0832a53641b60dec2",
+        "size_in_bytes": 32403
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/AzureDevOps.Authentication.dll",
+        "path_type": "hardlink",
+        "sha256": "a76623f82b005cec029ea9d94edafd50e134dd3d77760c58f7bf6123864cddb9",
+        "sha256_in_prefix": "a76623f82b005cec029ea9d94edafd50e134dd3d77760c58f7bf6123864cddb9",
+        "size_in_bytes": 85248
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/Bitbucket.Authentication.dll",
+        "path_type": "hardlink",
+        "sha256": "15ef512e9240405bb628d5e04e53365124263311d292d6878ba3a7a83eaa5718",
+        "sha256_in_prefix": "15ef512e9240405bb628d5e04e53365124263311d292d6878ba3a7a83eaa5718",
+        "size_in_bytes": 239104
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/GitHub.Authentication.exe",
+        "path_type": "hardlink",
+        "sha256": "4c7a2522d4057f161a94b6403b3bb36525f89b353d41be2871b3f300acceed6b",
+        "sha256_in_prefix": "4c7a2522d4057f161a94b6403b3bb36525f89b353d41be2871b3f300acceed6b",
+        "size_in_bytes": 300544
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/Microsoft.Alm.Authentication.dll",
+        "path_type": "hardlink",
+        "sha256": "80c28e2c816bb205d428c275b0a53d6ccdcfc0e9f0c9f316b3c9be30cc7ab660",
+        "sha256_in_prefix": "80c28e2c816bb205d428c275b0a53d6ccdcfc0e9f0c9f316b3c9be30cc7ab660",
+        "size_in_bytes": 121392
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/Microsoft.IdentityModel.Clients.ActiveDirectory.dll",
+        "path_type": "hardlink",
+        "sha256": "a9b91af8552ecf30785e46a782fdc9e87d7367c817bcfd9f45886a8ca7d80a12",
+        "sha256_in_prefix": "a9b91af8552ecf30785e46a782fdc9e87d7367c817bcfd9f45886a8ca7d80a12",
+        "size_in_bytes": 295024
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-askpass.exe",
+        "path_type": "hardlink",
+        "sha256": "20e11375a34452136a65295cda459031e0b97eaf299bc47722d347da0879d892",
+        "sha256_in_prefix": "20e11375a34452136a65295cda459031e0b97eaf299bc47722d347da0879d892",
+        "size_in_bytes": 237896
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-bisect",
+        "path_type": "hardlink",
+        "sha256": "da23cfd61e3774f067747a5ecdc995186f5c7f51c13f04b597d0b6b384c02931",
+        "sha256_in_prefix": "da23cfd61e3774f067747a5ecdc995186f5c7f51c13f04b597d0b6b384c02931",
+        "size_in_bytes": 8290
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-credential-manager.exe",
+        "path_type": "hardlink",
+        "sha256": "e636af9cd0be90773a1f2200b369cb71106543b7777858bc16c94173e10f8cd2",
+        "sha256_in_prefix": "e636af9cd0be90773a1f2200b369cb71106543b7777858bc16c94173e10f8cd2",
+        "size_in_bytes": 186728
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-filter-branch",
+        "path_type": "hardlink",
+        "sha256": "ef9d15f8e51754a8c1887c0e53a61631171e86625fa9793712e930ad9ef74e59",
+        "sha256_in_prefix": "ef9d15f8e51754a8c1887c0e53a61631171e86625fa9793712e930ad9ef74e59",
+        "size_in_bytes": 15801
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-legacy-stash",
+        "path_type": "hardlink",
+        "sha256": "d7c81470f6fb030541b37eb79951cd14fdd45c1bb69594a09756f849793b2711",
+        "sha256_in_prefix": "d7c81470f6fb030541b37eb79951cd14fdd45c1bb69594a09756f849793b2711",
+        "size_in_bytes": 16341
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-merge-octopus",
+        "path_type": "hardlink",
+        "sha256": "c5d08a8c4e5afc8b48d965c309d3b98930592da304cf04ac265c8b24ea3d6891",
+        "sha256_in_prefix": "c5d08a8c4e5afc8b48d965c309d3b98930592da304cf04ac265c8b24ea3d6891",
+        "size_in_bytes": 2477
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-merge-one-file",
+        "path_type": "hardlink",
+        "sha256": "496bd3daaca988726b23252e8032f8e3cc38913dbe2a0d9f1bafd7b7276ae717",
+        "sha256_in_prefix": "496bd3daaca988726b23252e8032f8e3cc38913dbe2a0d9f1bafd7b7276ae717",
+        "size_in_bytes": 3695
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-merge-resolve",
+        "path_type": "hardlink",
+        "sha256": "c10ebe981e23461cc8ee48cc60632093638fc1dfce448b0519ff952d9c9d1655",
+        "sha256_in_prefix": "c10ebe981e23461cc8ee48cc60632093638fc1dfce448b0519ff952d9c9d1655",
+        "size_in_bytes": 944
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-mergetool",
+        "path_type": "hardlink",
+        "sha256": "948d37c33ca19ebe87f002bae884fd3ddf1d25139e760c8a34018bb7f04fa09c",
+        "sha256_in_prefix": "948d37c33ca19ebe87f002bae884fd3ddf1d25139e760c8a34018bb7f04fa09c",
+        "size_in_bytes": 10297
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-mergetool--lib",
+        "path_type": "hardlink",
+        "sha256": "9a12d35909bd7fc7183dba0e044abb29098289b878f305344b3ba278733712f1",
+        "sha256_in_prefix": "9a12d35909bd7fc7183dba0e044abb29098289b878f305344b3ba278733712f1",
+        "size_in_bytes": 9201
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-parse-remote",
+        "path_type": "hardlink",
+        "sha256": "240a1b71e71d1120d23e46556dda388df1ab2c9ec62c5e70dc0d13d58459b3ea",
+        "sha256_in_prefix": "240a1b71e71d1120d23e46556dda388df1ab2c9ec62c5e70dc0d13d58459b3ea",
+        "size_in_bytes": 2650
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-quiltimport",
+        "path_type": "hardlink",
+        "sha256": "0af8839f6d89cb9b7c2973b6f95cfb3839e05d82fa4ecbf1f0af495a0e715a64",
+        "sha256_in_prefix": "0af8839f6d89cb9b7c2973b6f95cfb3839e05d82fa4ecbf1f0af495a0e715a64",
+        "size_in_bytes": 3693
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-rebase--preserve-merges",
+        "path_type": "hardlink",
+        "sha256": "9bcb4d74c438f9ed9100a02c78fc16127ce25fce674632d228fd7fddbad016a5",
+        "sha256_in_prefix": "9bcb4d74c438f9ed9100a02c78fc16127ce25fce674632d228fd7fddbad016a5",
+        "size_in_bytes": 29600
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-request-pull",
+        "path_type": "hardlink",
+        "sha256": "07f3f5c9adea01a3126f0ee3878402b4fb0fd2fbcda9beca13a090b0282078cd",
+        "sha256_in_prefix": "07f3f5c9adea01a3126f0ee3878402b4fb0fd2fbcda9beca13a090b0282078cd",
+        "size_in_bytes": 4130
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-sh-i18n",
+        "path_type": "hardlink",
+        "sha256": "22b6b930cd2c3d4d3d0adeb0fa35649e16559f61cdfa2e5283af7db16c163f60",
+        "sha256_in_prefix": "22b6b930cd2c3d4d3d0adeb0fa35649e16559f61cdfa2e5283af7db16c163f60",
+        "size_in_bytes": 2474
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-sh-setup",
+        "path_type": "hardlink",
+        "sha256": "6a7af780c19324da70a8f8324fe70d8a8bd37dd6467582817e8c6aa686666774",
+        "sha256_in_prefix": "6a7af780c19324da70a8f8324fe70d8a8bd37dd6467582817e8c6aa686666774",
+        "size_in_bytes": 9726
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-submodule",
+        "path_type": "hardlink",
+        "sha256": "ebeb3fb68e706490bcc06592f71dc96856000d6691b6670cf22b6b51aa11e57a",
+        "sha256_in_prefix": "ebeb3fb68e706490bcc06592f71dc96856000d6691b6670cf22b6b51aa11e57a",
+        "size_in_bytes": 24948
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-subtree",
+        "path_type": "hardlink",
+        "sha256": "390125aba2af93689b689b306dbb2f15409a47c961fd7e3de74794688d55835f",
+        "sha256_in_prefix": "390125aba2af93689b689b306dbb2f15409a47c961fd7e3de74794688d55835f",
+        "size_in_bytes": 17485
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-update",
+        "path_type": "hardlink",
+        "sha256": "15b40ab72dea884f659cfbe441e9a40b2d8d63e490a3c14824a55607368e476d",
+        "sha256_in_prefix": "15b40ab72dea884f659cfbe441e9a40b2d8d63e490a3c14824a55607368e476d",
+        "size_in_bytes": 218
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/git-web--browse",
+        "path_type": "hardlink",
+        "sha256": "5c0d1d91dadfba3fe353add1f07be76016a7c6a3b2260ff9dfec5491fcd9e5e6",
+        "sha256_in_prefix": "5c0d1d91dadfba3fe353add1f07be76016a7c6a3b2260ff9dfec5491fcd9e5e6",
+        "size_in_bytes": 4401
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/araxis",
+        "path_type": "hardlink",
+        "sha256": "b9dc1a2e74297b01cd0c633ab3078e81ea511219aa9469d33ca8e879c73deb93",
+        "sha256_in_prefix": "b9dc1a2e74297b01cd0c633ab3078e81ea511219aa9469d33ca8e879c73deb93",
+        "size_in_bytes": 358
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/bc",
+        "path_type": "hardlink",
+        "sha256": "0c0001bc0011fd68fa2a00da325f7865e4595d57a4562dc13eb9471eadba964b",
+        "sha256_in_prefix": "0c0001bc0011fd68fa2a00da325f7865e4595d57a4562dc13eb9471eadba964b",
+        "size_in_bytes": 367
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/bc3",
+        "path_type": "hardlink",
+        "sha256": "974b2f45753b21b29c75eadef1ce68b2e6c1723d657ec1396f6fcbb8695185b4",
+        "sha256_in_prefix": "974b2f45753b21b29c75eadef1ce68b2e6c1723d657ec1396f6fcbb8695185b4",
+        "size_in_bytes": 24
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/codecompare",
+        "path_type": "hardlink",
+        "sha256": "d94edc6ab6a67d83b047ce59cf1f247c035e42227c22ed73ee3da07e233861de",
+        "sha256_in_prefix": "d94edc6ab6a67d83b047ce59cf1f247c035e42227c22ed73ee3da07e233861de",
+        "size_in_bytes": 353
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/deltawalker",
+        "path_type": "hardlink",
+        "sha256": "8f40843888c5a8b3bfde5c9ba21b84960b238e024d8fc19d2c85f0c0569649ff",
+        "sha256_in_prefix": "8f40843888c5a8b3bfde5c9ba21b84960b238e024d8fc19d2c85f0c0569649ff",
+        "size_in_bytes": 663
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/diffmerge",
+        "path_type": "hardlink",
+        "sha256": "10861fe8fccca80d308006073a6d6041fd8f6a09cd585bc3ca2a6d2ab97f7641",
+        "sha256_in_prefix": "10861fe8fccca80d308006073a6d6041fd8f6a09cd585bc3ca2a6d2ab97f7641",
+        "size_in_bytes": 309
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/diffuse",
+        "path_type": "hardlink",
+        "sha256": "925726924714707dea067a5a7aa1e340726b1a9010bf55957f1ddeb64764c1c3",
+        "sha256_in_prefix": "925726924714707dea067a5a7aa1e340726b1a9010bf55957f1ddeb64764c1c3",
+        "size_in_bytes": 248
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/ecmerge",
+        "path_type": "hardlink",
+        "sha256": "c8a6fc2b0cc1f416507afe531236ee1cc62603372557038657ff355b75d9bf98",
+        "sha256_in_prefix": "c8a6fc2b0cc1f416507afe531236ee1cc62603372557038657ff355b75d9bf98",
+        "size_in_bytes": 306
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/emerge",
+        "path_type": "hardlink",
+        "sha256": "a7fcd2195e13c4161276f15c5535e07069868cff82d9b6312fbc93ef1b93e389",
+        "sha256_in_prefix": "a7fcd2195e13c4161276f15c5535e07069868cff82d9b6312fbc93ef1b93e389",
+        "size_in_bytes": 438
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/examdiff",
+        "path_type": "hardlink",
+        "sha256": "b5a74f894848e4b50499bf5fe46c80842dba9a545c03b4914be0812585c751ec",
+        "sha256_in_prefix": "b5a74f894848e4b50499bf5fe46c80842dba9a545c03b4914be0812585c751ec",
+        "size_in_bytes": 336
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/guiffy",
+        "path_type": "hardlink",
+        "sha256": "c8e90c3e429495f7a624e80f5150d6e0844656592b39b5d86abf96cf6e0e8c20",
+        "sha256_in_prefix": "c8e90c3e429495f7a624e80f5150d6e0844656592b39b5d86abf96cf6e0e8c20",
+        "size_in_bytes": 263
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/gvimdiff",
+        "path_type": "hardlink",
+        "sha256": "bc1d96063154a0e5a7f55f5f3579d275c124e84ba33eb50db2f5802e259b479f",
+        "sha256_in_prefix": "bc1d96063154a0e5a7f55f5f3579d275c124e84ba33eb50db2f5802e259b479f",
+        "size_in_bytes": 29
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/gvimdiff2",
+        "path_type": "hardlink",
+        "sha256": "bc1d96063154a0e5a7f55f5f3579d275c124e84ba33eb50db2f5802e259b479f",
+        "sha256_in_prefix": "bc1d96063154a0e5a7f55f5f3579d275c124e84ba33eb50db2f5802e259b479f",
+        "size_in_bytes": 29
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/gvimdiff3",
+        "path_type": "hardlink",
+        "sha256": "bc1d96063154a0e5a7f55f5f3579d275c124e84ba33eb50db2f5802e259b479f",
+        "sha256_in_prefix": "bc1d96063154a0e5a7f55f5f3579d275c124e84ba33eb50db2f5802e259b479f",
+        "size_in_bytes": 29
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/kdiff3",
+        "path_type": "hardlink",
+        "sha256": "74a8c5e73adbc121ea49e1a41e0e068f31a70c89906535a6047e094c5fe7a61f",
+        "sha256_in_prefix": "74a8c5e73adbc121ea49e1a41e0e068f31a70c89906535a6047e094c5fe7a61f",
+        "size_in_bytes": 522
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/kompare",
+        "path_type": "hardlink",
+        "sha256": "f3fabd053fbe205aa226989942346dd16b0e148435600069a3b91c118eabfa57",
+        "sha256_in_prefix": "f3fabd053fbe205aa226989942346dd16b0e148435600069a3b91c118eabfa57",
+        "size_in_bytes": 117
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/meld",
+        "path_type": "hardlink",
+        "sha256": "1a06d130ad6d1e5664c4e8d6fc4485564ca7d619ad710ba61e91ce77a733db29",
+        "sha256_in_prefix": "1a06d130ad6d1e5664c4e8d6fc4485564ca7d619ad710ba61e91ce77a733db29",
+        "size_in_bytes": 843
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/opendiff",
+        "path_type": "hardlink",
+        "sha256": "bbb99da526757bd5cff6af0bbd3cc4516dc2164663b14116d45d77afae1a6352",
+        "sha256_in_prefix": "bbb99da526757bd5cff6af0bbd3cc4516dc2164663b14116d45d77afae1a6352",
+        "size_in_bytes": 267
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/p4merge",
+        "path_type": "hardlink",
+        "sha256": "42339978652a687b084d7f4de2860756ed7d37e69aba9aa29dcfd8f4d7f22a56",
+        "sha256_in_prefix": "42339978652a687b084d7f4de2860756ed7d37e69aba9aa29dcfd8f4d7f22a56",
+        "size_in_bytes": 617
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/smerge",
+        "path_type": "hardlink",
+        "sha256": "2abb59692fdbb53262047c7d1aa4630570e54f50ab6ad83fa4081193c732ba4d",
+        "sha256_in_prefix": "2abb59692fdbb53262047c7d1aa4630570e54f50ab6ad83fa4081193c732ba4d",
+        "size_in_bytes": 264
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/tkdiff",
+        "path_type": "hardlink",
+        "sha256": "500cc21528e2f7b5038f31637ca7369813544c9f9334fd172bdc51c0c09409cd",
+        "sha256_in_prefix": "500cc21528e2f7b5038f31637ca7369813544c9f9334fd172bdc51c0c09409cd",
+        "size_in_bytes": 258
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/tortoisemerge",
+        "path_type": "hardlink",
+        "sha256": "673198cae064ed57aa85a6d7ba7e75807f79aac9dcfe3102e12f055df71883df",
+        "sha256_in_prefix": "673198cae064ed57aa85a6d7ba7e75807f79aac9dcfe3102e12f055df71883df",
+        "size_in_bytes": 602
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/vimdiff",
+        "path_type": "hardlink",
+        "sha256": "fedccfa4a140d162f19238e3b82aa02255f41a779d8913dc0a0ea45dda12bd87",
+        "sha256_in_prefix": "fedccfa4a140d162f19238e3b82aa02255f41a779d8913dc0a0ea45dda12bd87",
+        "size_in_bytes": 890
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/vimdiff2",
+        "path_type": "hardlink",
+        "sha256": "bc1d96063154a0e5a7f55f5f3579d275c124e84ba33eb50db2f5802e259b479f",
+        "sha256_in_prefix": "bc1d96063154a0e5a7f55f5f3579d275c124e84ba33eb50db2f5802e259b479f",
+        "size_in_bytes": 29
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/vimdiff3",
+        "path_type": "hardlink",
+        "sha256": "bc1d96063154a0e5a7f55f5f3579d275c124e84ba33eb50db2f5802e259b479f",
+        "sha256_in_prefix": "bc1d96063154a0e5a7f55f5f3579d275c124e84ba33eb50db2f5802e259b479f",
+        "size_in_bytes": 29
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/winmerge",
+        "path_type": "hardlink",
+        "sha256": "1b3502d779f4fb1d435a24a5f354dc6960d3e94a1e634b7258ce7a3c0873efce",
+        "sha256_in_prefix": "1b3502d779f4fb1d435a24a5f354dc6960d3e94a1e634b7258ce7a3c0873efce",
+        "size_in_bytes": 361
+      },
+      {
+        "_path": "Library/mingw64/libexec/git-core/mergetools/xxdiff",
+        "path_type": "hardlink",
+        "sha256": "d58d3e1eec80affb9875dc00156a3bd15e917c703454d2456f34249db232ea4d",
+        "sha256_in_prefix": "d58d3e1eec80affb9875dc00156a3bd15e917c703454d2456f34249db232ea4d",
+        "size_in_bytes": 584
+      },
+      {
+        "_path": "Library/mingw64/share/doc/expat/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "59f14371c6b75912cfebb46e6247ee5146766e803a0365b124e5d3011e7d0877",
+        "sha256_in_prefix": "59f14371c6b75912cfebb46e6247ee5146766e803a0365b124e5d3011e7d0877",
+        "size_in_bytes": 142
+      },
+      {
+        "_path": "Library/mingw64/share/doc/expat/changelog",
+        "path_type": "hardlink",
+        "sha256": "871e23fb715900ab110225078cf87297ab5eb2e763a0d9404caf3b1b3492147e",
+        "sha256_in_prefix": "871e23fb715900ab110225078cf87297ab5eb2e763a0d9404caf3b1b3492147e",
+        "size_in_bytes": 32064
+      },
+      {
+        "_path": "Library/mingw64/share/doc/jemalloc/jemalloc.html",
+        "path_type": "hardlink",
+        "sha256": "7f13cb0b2a6018f744dacc47d1932ebefbcd5f52bb8d14853e1565c79cc7aea8",
+        "sha256_in_prefix": "7f13cb0b2a6018f744dacc47d1932ebefbcd5f52bb8d14853e1565c79cc7aea8",
+        "size_in_bytes": 169730
+      },
+      {
+        "_path": "Library/mingw64/share/doc/mpfr/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "ee023f6b9259bae9d9890aa6813c6466c2f48aaed3a4f30763c20c86463a27d2",
+        "sha256_in_prefix": "ee023f6b9259bae9d9890aa6813c6466c2f48aaed3a4f30763c20c86463a27d2",
+        "size_in_bytes": 1313
+      },
+      {
+        "_path": "Library/mingw64/share/doc/mpfr/BUGS",
+        "path_type": "hardlink",
+        "sha256": "570412c0768dfcae7a26611628ba4166c91c2950831a3558b1be149068d4ffba",
+        "sha256_in_prefix": "570412c0768dfcae7a26611628ba4166c91c2950831a3558b1be149068d4ffba",
+        "size_in_bytes": 3335
+      },
+      {
+        "_path": "Library/mingw64/share/doc/mpfr/COPYING",
+        "path_type": "hardlink",
+        "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+        "sha256_in_prefix": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+        "size_in_bytes": 35149
+      },
+      {
+        "_path": "Library/mingw64/share/doc/mpfr/COPYING.LESSER",
+        "path_type": "hardlink",
+        "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118",
+        "sha256_in_prefix": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118",
+        "size_in_bytes": 7652
+      },
+      {
+        "_path": "Library/mingw64/share/doc/mpfr/FAQ.html",
+        "path_type": "hardlink",
+        "sha256": "4dbef652f46722190cae5d7ea89016dd837ba5773bfb2bcb76905b0614d1c440",
+        "sha256_in_prefix": "4dbef652f46722190cae5d7ea89016dd837ba5773bfb2bcb76905b0614d1c440",
+        "size_in_bytes": 18224
+      },
+      {
+        "_path": "Library/mingw64/share/doc/mpfr/NEWS",
+        "path_type": "hardlink",
+        "sha256": "21d4f5721a8a1742c6c5067960f003381bd8374b82b27d1da184b19a4ced1634",
+        "sha256_in_prefix": "21d4f5721a8a1742c6c5067960f003381bd8374b82b27d1da184b19a4ced1634",
+        "size_in_bytes": 23488
+      },
+      {
+        "_path": "Library/mingw64/share/doc/mpfr/TODO",
+        "path_type": "hardlink",
+        "sha256": "c871cc0cce069361c44b56373a0270a738a65da8b90dc6d085a01de7fe11e578",
+        "sha256_in_prefix": "c871cc0cce069361c44b56373a0270a738a65da8b90dc6d085a01de7fe11e578",
+        "size_in_bytes": 35414
+      },
+      {
+        "_path": "Library/mingw64/share/doc/mpfr/examples/ReadMe",
+        "path_type": "hardlink",
+        "sha256": "4b503f2cd881013af415ae498ab1ac88a2c4cb5ed766fa6f5e227113145c53d0",
+        "sha256_in_prefix": "4b503f2cd881013af415ae498ab1ac88a2c4cb5ed766fa6f5e227113145c53d0",
+        "size_in_bytes": 41
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/description",
+        "path_type": "hardlink",
+        "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+        "sha256_in_prefix": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+        "size_in_bytes": 73
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/applypatch-msg.sample",
+        "path_type": "hardlink",
+        "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+        "sha256_in_prefix": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+        "size_in_bytes": 478
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/commit-msg.sample",
+        "path_type": "hardlink",
+        "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+        "sha256_in_prefix": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+        "size_in_bytes": 896
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/fsmonitor-watchman.sample",
+        "path_type": "hardlink",
+        "sha256": "7f9cacf1f7c8f791abfaa76171b951a55a9a2a11f1390b43cbc83995b4a91b33",
+        "sha256_in_prefix": "7f9cacf1f7c8f791abfaa76171b951a55a9a2a11f1390b43cbc83995b4a91b33",
+        "size_in_bytes": 3327
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/post-update.sample",
+        "path_type": "hardlink",
+        "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+        "sha256_in_prefix": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+        "size_in_bytes": 189
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/pre-applypatch.sample",
+        "path_type": "hardlink",
+        "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+        "sha256_in_prefix": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+        "size_in_bytes": 424
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/pre-commit.sample",
+        "path_type": "hardlink",
+        "sha256": "d6d114e507a3295ff3a2e214611c2f5c0d13eaf0ed53f595ba02e4cc714fca18",
+        "sha256_in_prefix": "d6d114e507a3295ff3a2e214611c2f5c0d13eaf0ed53f595ba02e4cc714fca18",
+        "size_in_bytes": 1638
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/pre-push.sample",
+        "path_type": "hardlink",
+        "sha256": "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1",
+        "sha256_in_prefix": "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1",
+        "size_in_bytes": 1348
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/pre-rebase.sample",
+        "path_type": "hardlink",
+        "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+        "sha256_in_prefix": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+        "size_in_bytes": 4898
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/pre-receive.sample",
+        "path_type": "hardlink",
+        "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+        "sha256_in_prefix": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+        "size_in_bytes": 544
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/prepare-commit-msg.sample",
+        "path_type": "hardlink",
+        "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+        "sha256_in_prefix": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+        "size_in_bytes": 1492
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/hooks/update.sample",
+        "path_type": "hardlink",
+        "sha256": "751c037320024ec2ee2757f3ffae0b10ad2c946367684e7059d4dc97eac7e431",
+        "sha256_in_prefix": "751c037320024ec2ee2757f3ffae0b10ad2c946367684e7059d4dc97eac7e431",
+        "size_in_bytes": 3610
+      },
+      {
+        "_path": "Library/mingw64/share/git-core/templates/info/exclude",
+        "path_type": "hardlink",
+        "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+        "sha256_in_prefix": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+        "size_in_bytes": 240
+      },
+      {
+        "_path": "Library/mingw64/share/git/git-wrapper.exe",
+        "path_type": "hardlink",
+        "sha256": "e007c8f3932959c3896f52c490c302ffe8bd9de0b911b26aa1ede650bc19b39f",
+        "sha256_in_prefix": "e007c8f3932959c3896f52c490c302ffe8bd9de0b911b26aa1ede650bc19b39f",
+        "size_in_bytes": 43104
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/expat/COPYING",
+        "path_type": "hardlink",
+        "sha256": "46336ab2fec900803e2f1a4253e325ac01d998efb09bc6906651f7259e636f76",
+        "sha256_in_prefix": "46336ab2fec900803e2f1a4253e325ac01d998efb09bc6906651f7259e636f76",
+        "size_in_bytes": 1144
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gcc-libs/COPYING.LIB",
+        "path_type": "hardlink",
+        "sha256": "a9bdde5616ecdd1e980b44f360600ee8783b1f99b8cc83a2beb163a0a390e861",
+        "sha256_in_prefix": "a9bdde5616ecdd1e980b44f360600ee8783b1f99b8cc83a2beb163a0a390e861",
+        "size_in_bytes": 26527
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gcc-libs/COPYING.RUNTIME",
+        "path_type": "hardlink",
+        "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "sha256_in_prefix": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "size_in_bytes": 3324
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gcc-libs/COPYING3",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gcc-libs/README",
+        "path_type": "hardlink",
+        "sha256": "2bd5d7a51c0cf75fb7a20fd15b3afef8874ebc32535bb8e2ddb1cf400fe26407",
+        "sha256_in_prefix": "2bd5d7a51c0cf75fb7a20fd15b3afef8874ebc32535bb8e2ddb1cf400fe26407",
+        "size_in_bytes": 227
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gettext/COPYING",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gettext/gettext-runtime/COPYING",
+        "path_type": "hardlink",
+        "sha256": "7ef2cdfe58e0c0460657b6598b49af29d4e03c1e41cbaf0e1da1eb8ad74b95d0",
+        "sha256_in_prefix": "7ef2cdfe58e0c0460657b6598b49af29d4e03c1e41cbaf0e1da1eb8ad74b95d0",
+        "size_in_bytes": 495
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gettext/gettext-runtime/intl/COPYING.LIB",
+        "path_type": "hardlink",
+        "sha256": "3fe5361f24b7c49ba12911c08f5a33f9cb18871d95d9fb881f5b8a4793e04288",
+        "sha256_in_prefix": "3fe5361f24b7c49ba12911c08f5a33f9cb18871d95d9fb881f5b8a4793e04288",
+        "size_in_bytes": 26545
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gettext/gettext-runtime/libasprintf/COPYING",
+        "path_type": "hardlink",
+        "sha256": "03133addae5b99a6148c538300e6d97074453089be1423b741bd081f18e2b298",
+        "sha256_in_prefix": "03133addae5b99a6148c538300e6d97074453089be1423b741bd081f18e2b298",
+        "size_in_bytes": 65
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gettext/gettext-runtime/libasprintf/COPYING.LIB",
+        "path_type": "hardlink",
+        "sha256": "3fe5361f24b7c49ba12911c08f5a33f9cb18871d95d9fb881f5b8a4793e04288",
+        "sha256_in_prefix": "3fe5361f24b7c49ba12911c08f5a33f9cb18871d95d9fb881f5b8a4793e04288",
+        "size_in_bytes": 26545
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gettext/gettext-tools/COPYING",
+        "path_type": "hardlink",
+        "sha256": "5d4cff30d5038f82a0edc79798456049b61e1752fdb7e9ab1f4bfb9fae3a7303",
+        "sha256_in_prefix": "5d4cff30d5038f82a0edc79798456049b61e1752fdb7e9ab1f4bfb9fae3a7303",
+        "size_in_bytes": 78
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gettext/gettext-tools/gnulib-lib/libxml/COPYING",
+        "path_type": "hardlink",
+        "sha256": "c5c63674f8a83c4d2e385d96d1c670a03cb871ba2927755467017317878574bd",
+        "sha256_in_prefix": "c5c63674f8a83c4d2e385d96d1c670a03cb871ba2927755467017317878574bd",
+        "size_in_bytes": 1289
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/gettext/gnulib-local/lib/libxml/COPYING",
+        "path_type": "hardlink",
+        "sha256": "c5c63674f8a83c4d2e385d96d1c670a03cb871ba2927755467017317878574bd",
+        "sha256_in_prefix": "c5c63674f8a83c4d2e385d96d1c670a03cb871ba2927755467017317878574bd",
+        "size_in_bytes": 1289
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/jemalloc/COPYING",
+        "path_type": "hardlink",
+        "sha256": "94aa2caa98c25d942f58b956c71dba6a99ff98fc3a31cbc669fe2a4cd0268b53",
+        "sha256_in_prefix": "94aa2caa98c25d942f58b956c71dba6a99ff98fc3a31cbc669fe2a4cd0268b53",
+        "size_in_bytes": 1709
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/libffi/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "0f4d7a0bfb83c37465d42dc305f124189196cc0cc2cc8d6f8461103682aebbc5",
+        "sha256_in_prefix": "0f4d7a0bfb83c37465d42dc305f124189196cc0cc2cc8d6f8461103682aebbc5",
+        "size_in_bytes": 1132
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/libiconv/COPYING",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/libiconv/COPYING.LIB",
+        "path_type": "hardlink",
+        "sha256": "56bdea73b6145ef6ac5259b3da390b981d840c24cb03b8e1cbc678de7ecfa18d",
+        "sha256_in_prefix": "56bdea73b6145ef6ac5259b3da390b981d840c24cb03b8e1cbc678de7ecfa18d",
+        "size_in_bytes": 25291
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/libiconv/README",
+        "path_type": "hardlink",
+        "sha256": "ec96a8a947102060563d548cb39b7d5253145f8910d64cf5096d9a005026db09",
+        "sha256_in_prefix": "ec96a8a947102060563d548cb39b7d5253145f8910d64cf5096d9a005026db09",
+        "size_in_bytes": 4993
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/libiconv/libcharset/COPYING.LIB",
+        "path_type": "hardlink",
+        "sha256": "56bdea73b6145ef6ac5259b3da390b981d840c24cb03b8e1cbc678de7ecfa18d",
+        "sha256_in_prefix": "56bdea73b6145ef6ac5259b3da390b981d840c24cb03b8e1cbc678de7ecfa18d",
+        "size_in_bytes": 25291
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/libssh2/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e15ed284a15e80115467d6d7f030f0d89d8fabbecd78fb6e0f861f0cfc128fd9",
+        "sha256_in_prefix": "e15ed284a15e80115467d6d7f030f0d89d8fabbecd78fb6e0f861f0cfc128fd9",
+        "size_in_bytes": 1886
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/libtasn1/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "7446831f659f7ebfd8d497acc7f05dfa8e31c6cb6ba1b45df33d4895ab80f5a6",
+        "sha256_in_prefix": "7446831f659f7ebfd8d497acc7f05dfa8e31c6cb6ba1b45df33d4895ab80f5a6",
+        "size_in_bytes": 605
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/libunistring/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/libwinpthread/COPYING",
+        "path_type": "hardlink",
+        "sha256": "99a69660981156c21336fdb5661f89341b013c94e4bf9e1c7467b4745718397f",
+        "sha256_in_prefix": "99a69660981156c21336fdb5661f89341b013c94e4bf9e1c7467b4745718397f",
+        "size_in_bytes": 2326
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/libwinpthread/mingw-w64-libraries/winpthreads/COPYING",
+        "path_type": "hardlink",
+        "sha256": "63263614cdd29f2f93cba85e992f041b31f9fc7b4033692f31269489a8a1b177",
+        "sha256_in_prefix": "63263614cdd29f2f93cba85e992f041b31f9fc7b4033692f31269489a8a1b177",
+        "size_in_bytes": 2883
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/openssl/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c32913b33252e71190af2066f08115c69bc9fddadf3bf29296e20c835389841c",
+        "sha256_in_prefix": "c32913b33252e71190af2066f08115c69bc9fddadf3bf29296e20c835389841c",
+        "size_in_bytes": 6121
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/pcre2/COPYING",
+        "path_type": "hardlink",
+        "sha256": "99272c55f3dcfa07a8a7e15a5c1a33096e4727de74241d65fa049fccfdd59507",
+        "sha256_in_prefix": "99272c55f3dcfa07a8a7e15a5c1a33096e4727de74241d65fa049fccfdd59507",
+        "size_in_bytes": 97
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/pcre2/LICENCE",
+        "path_type": "hardlink",
+        "sha256": "982293becea3f18eb4e3ce2145f66638e46d105a27b88418766caf321a684d03",
+        "sha256_in_prefix": "982293becea3f18eb4e3ce2145f66638e46d105a27b88418766caf321a684d03",
+        "size_in_bytes": 3456
+      },
+      {
+        "_path": "Library/mingw64/share/licenses/zlib/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b8dc97ec24faf95f0f30bf2ab721dbdc30b32de1aa4a2a5853e56551c59d6f04",
+        "sha256_in_prefix": "b8dc97ec24faf95f0f30bf2ab721dbdc30b32de1aa4a2a5853e56551c59d6f04",
+        "size_in_bytes": 1215
+      },
+      {
+        "_path": "Library/mingw64/ssl/cert.pem",
+        "path_type": "hardlink",
+        "sha256": "704e896ebb01ca4af4d9ff89e1e1ff07343ee8ffa977a7dee00226d89131ae22",
+        "sha256_in_prefix": "704e896ebb01ca4af4d9ff89e1e1ff07343ee8ffa977a7dee00226d89131ae22",
+        "size_in_bytes": 207436
+      },
+      {
+        "_path": "Library/mingw64/ssl/certs/ca-bundle.crt",
+        "path_type": "hardlink",
+        "sha256": "704e896ebb01ca4af4d9ff89e1e1ff07343ee8ffa977a7dee00226d89131ae22",
+        "sha256_in_prefix": "704e896ebb01ca4af4d9ff89e1e1ff07343ee8ffa977a7dee00226d89131ae22",
+        "size_in_bytes": 207436
+      },
+      {
+        "_path": "Library/mingw64/ssl/certs/ca-bundle.trust.crt",
+        "path_type": "hardlink",
+        "sha256": "515ee4a67f52d8fc6c8743f397ca1867b2b1e026d1781ce181837054ef96e8ad",
+        "sha256_in_prefix": "515ee4a67f52d8fc6c8743f397ca1867b2b1e026d1781ce181837054ef96e8ad",
+        "size_in_bytes": 252834
+      },
+      {
+        "_path": "Library/mingw64/ssl/ct_log_list.cnf",
+        "path_type": "hardlink",
+        "sha256": "f1c1803d13d1d0b755b13b23c28bd4e20e07baf9f2b744c9337ba5866aa0ec3b",
+        "sha256_in_prefix": "f1c1803d13d1d0b755b13b23c28bd4e20e07baf9f2b744c9337ba5866aa0ec3b",
+        "size_in_bytes": 412
+      },
+      {
+        "_path": "Library/mingw64/ssl/ct_log_list.cnf.dist",
+        "path_type": "hardlink",
+        "sha256": "f1c1803d13d1d0b755b13b23c28bd4e20e07baf9f2b744c9337ba5866aa0ec3b",
+        "sha256_in_prefix": "f1c1803d13d1d0b755b13b23c28bd4e20e07baf9f2b744c9337ba5866aa0ec3b",
+        "size_in_bytes": 412
+      },
+      {
+        "_path": "Library/mingw64/ssl/openssl.cnf",
+        "path_type": "hardlink",
+        "sha256": "f10ba64917b4458fafc1e078c2eb9e6a7602e68fc98c2e9e6df5e1636ae27d6b",
+        "sha256_in_prefix": "f10ba64917b4458fafc1e078c2eb9e6a7602e68fc98c2e9e6df5e1636ae27d6b",
+        "size_in_bytes": 10909
+      },
+      {
+        "_path": "Library/mingw64/ssl/openssl.cnf.dist",
+        "path_type": "hardlink",
+        "sha256": "f10ba64917b4458fafc1e078c2eb9e6a7602e68fc98c2e9e6df5e1636ae27d6b",
+        "sha256_in_prefix": "f10ba64917b4458fafc1e078c2eb9e6a7602e68fc98c2e9e6df5e1636ae27d6b",
+        "size_in_bytes": 10909
+      },
+      {
+        "_path": "Library/usr/bin/chattr.exe",
+        "path_type": "hardlink",
+        "sha256": "0fbc963c58567cb80e7b99d7d7792b0ca8e5761f66d9d74062055bce998b67cf",
+        "sha256_in_prefix": "0fbc963c58567cb80e7b99d7d7792b0ca8e5761f66d9d74062055bce998b67cf",
+        "size_in_bytes": 171315
+      },
+      {
+        "_path": "Library/usr/bin/cmp.exe",
+        "path_type": "hardlink",
+        "sha256": "18711bf37bb8d13e447cf8920aa99360d1c226fa75cf114a306e9f05f128a99f",
+        "sha256_in_prefix": "18711bf37bb8d13e447cf8920aa99360d1c226fa75cf114a306e9f05f128a99f",
+        "size_in_bytes": 44686
+      },
+      {
+        "_path": "Library/usr/bin/diff.exe",
+        "path_type": "hardlink",
+        "sha256": "f80835e38a9ecf05bb4969611be202239f5b5b16beff20e10609cf228b869a61",
+        "sha256_in_prefix": "f80835e38a9ecf05bb4969611be202239f5b5b16beff20e10609cf228b869a61",
+        "size_in_bytes": 205303
+      },
+      {
+        "_path": "Library/usr/bin/diff3.exe",
+        "path_type": "hardlink",
+        "sha256": "f240c5df3795fd226ecae69a09eeb12aa0bbd10478c27b13980dbe8609187697",
+        "sha256_in_prefix": "f240c5df3795fd226ecae69a09eeb12aa0bbd10478c27b13980dbe8609187697",
+        "size_in_bytes": 59809
+      },
+      {
+        "_path": "Library/usr/bin/gencat.exe",
+        "path_type": "hardlink",
+        "sha256": "9878ccfa42d97404a7cb13baa28e0446fab34fda05a6025262f38e5d79428eac",
+        "sha256_in_prefix": "9878ccfa42d97404a7cb13baa28e0446fab34fda05a6025262f38e5d79428eac",
+        "size_in_bytes": 180598
+      },
+      {
+        "_path": "Library/usr/bin/lsattr.exe",
+        "path_type": "hardlink",
+        "sha256": "83f12358f2a6e909efa74871d46d3108cc737cf5b2f7b00f7850d58282700b95",
+        "sha256_in_prefix": "83f12358f2a6e909efa74871d46d3108cc737cf5b2f7b00f7850d58282700b95",
+        "size_in_bytes": 170196
+      },
+      {
+        "_path": "Library/usr/bin/msys-2.0.dll",
+        "path_type": "hardlink",
+        "sha256": "616637d01e0a3b30d70e14242fc34093f8a88be9867941b3cf1595ebd22c27b2",
+        "sha256_in_prefix": "616637d01e0a3b30d70e14242fc34093f8a88be9867941b3cf1595ebd22c27b2",
+        "size_in_bytes": 3519793
+      },
+      {
+        "_path": "Library/usr/bin/msys-asn1-8.dll",
+        "path_type": "hardlink",
+        "sha256": "656422199dfd7974f56c3a06d52f9f0dd97310247b3e557d145f96c6b59a9504",
+        "sha256_in_prefix": "656422199dfd7974f56c3a06d52f9f0dd97310247b3e557d145f96c6b59a9504",
+        "size_in_bytes": 520749
+      },
+      {
+        "_path": "Library/usr/bin/msys-com_err-1.dll",
+        "path_type": "hardlink",
+        "sha256": "386604cee39a1525be165bfd2c05419427d1135c66a6a47111d2e9543bec0217",
+        "sha256_in_prefix": "386604cee39a1525be165bfd2c05419427d1135c66a6a47111d2e9543bec0217",
+        "size_in_bytes": 10102
+      },
+      {
+        "_path": "Library/usr/bin/msys-crypt-0.dll",
+        "path_type": "hardlink",
+        "sha256": "6a5bc7705db25a1ecabc8a66270cfbe10d2fa5319226aa5593c0312b123ff16a",
+        "sha256_in_prefix": "6a5bc7705db25a1ecabc8a66270cfbe10d2fa5319226aa5593c0312b123ff16a",
+        "size_in_bytes": 38777
+      },
+      {
+        "_path": "Library/usr/bin/msys-crypto-1.1.dll",
+        "path_type": "hardlink",
+        "sha256": "339ff68fab4ca9917ba7d7cabb57e9917a3122bd3244d87f211613faf0c1a0c5",
+        "sha256_in_prefix": "339ff68fab4ca9917ba7d7cabb57e9917a3122bd3244d87f211613faf0c1a0c5",
+        "size_in_bytes": 2442498
+      },
+      {
+        "_path": "Library/usr/bin/msys-gcc_s-seh-1.dll",
+        "path_type": "hardlink",
+        "sha256": "1d76007a0fa00432c0676cbd5c4ca0d855bfc7e06c1cf51690be1d86161543f2",
+        "sha256_in_prefix": "1d76007a0fa00432c0676cbd5c4ca0d855bfc7e06c1cf51690be1d86161543f2",
+        "size_in_bytes": 71430
+      },
+      {
+        "_path": "Library/usr/bin/msys-gssapi-3.dll",
+        "path_type": "hardlink",
+        "sha256": "3eb2bfe48148c57c1fa8b77d39e90211cdf77dc0cbe65e9acd19f0c0b1620ccf",
+        "sha256_in_prefix": "3eb2bfe48148c57c1fa8b77d39e90211cdf77dc0cbe65e9acd19f0c0b1620ccf",
+        "size_in_bytes": 224187
+      },
+      {
+        "_path": "Library/usr/bin/msys-hcrypto-4.dll",
+        "path_type": "hardlink",
+        "sha256": "bbc44d03c2311b196921c953ec8079cce428e95e8d2f73215e0ab7cc0871f9ea",
+        "sha256_in_prefix": "bbc44d03c2311b196921c953ec8079cce428e95e8d2f73215e0ab7cc0871f9ea",
+        "size_in_bytes": 196920
+      },
+      {
+        "_path": "Library/usr/bin/msys-heimbase-1.dll",
+        "path_type": "hardlink",
+        "sha256": "3fa5ee94e0ebb089c1f6156e853fcdff305edf4cdf004821fd6f8212d167896d",
+        "sha256_in_prefix": "3fa5ee94e0ebb089c1f6156e853fcdff305edf4cdf004821fd6f8212d167896d",
+        "size_in_bytes": 50402
+      },
+      {
+        "_path": "Library/usr/bin/msys-heimntlm-0.dll",
+        "path_type": "hardlink",
+        "sha256": "4de178a8f0b468978f15ac2b717a7ac8ea04aef434a45e8c8b103f9fbc6ca1d4",
+        "sha256_in_prefix": "4de178a8f0b468978f15ac2b717a7ac8ea04aef434a45e8c8b103f9fbc6ca1d4",
+        "size_in_bytes": 32241
+      },
+      {
+        "_path": "Library/usr/bin/msys-hx509-5.dll",
+        "path_type": "hardlink",
+        "sha256": "289b89bd846e5b402e605d2d6db18e9d0574522468e7c2d8c5c0044cd96f1c57",
+        "sha256_in_prefix": "289b89bd846e5b402e605d2d6db18e9d0574522468e7c2d8c5c0044cd96f1c57",
+        "size_in_bytes": 277150
+      },
+      {
+        "_path": "Library/usr/bin/msys-krb5-26.dll",
+        "path_type": "hardlink",
+        "sha256": "38e8ebfee903de47a1bbe99276ea87766e78b178d764d393a01d20fa50ef04d9",
+        "sha256_in_prefix": "38e8ebfee903de47a1bbe99276ea87766e78b178d764d393a01d20fa50ef04d9",
+        "size_in_bytes": 474135
+      },
+      {
+        "_path": "Library/usr/bin/msys-roken-18.dll",
+        "path_type": "hardlink",
+        "sha256": "4df729961169f41be4b91fe51c7231a2ae8bca6619217ddcdf378bf4aae4071a",
+        "sha256_in_prefix": "4df729961169f41be4b91fe51c7231a2ae8bca6619217ddcdf378bf4aae4071a",
+        "size_in_bytes": 66082
+      },
+      {
+        "_path": "Library/usr/bin/msys-sqlite3-0.dll",
+        "path_type": "hardlink",
+        "sha256": "4501bbf1252c4c06ba4f174b980926472340a1c3eafc5e71aff402c40f83c8f6",
+        "sha256_in_prefix": "4501bbf1252c4c06ba4f174b980926472340a1c3eafc5e71aff402c40f83c8f6",
+        "size_in_bytes": 1104995
+      },
+      {
+        "_path": "Library/usr/bin/msys-wind-0.dll",
+        "path_type": "hardlink",
+        "sha256": "b78b69b2a64c9630b4472601b7460f247678907a400619154601340d5a9b3ffa",
+        "sha256_in_prefix": "b78b69b2a64c9630b4472601b7460f247678907a400619154601340d5a9b3ffa",
+        "size_in_bytes": 164463
+      },
+      {
+        "_path": "Library/usr/bin/msys-z.dll",
+        "path_type": "hardlink",
+        "sha256": "6d6d4c757c8ef7105306c658f720cc3cd04d6128e8e36a22b36f04399de39c3f",
+        "sha256_in_prefix": "6d6d4c757c8ef7105306c658f720cc3cd04d6128e8e36a22b36f04399de39c3f",
+        "size_in_bytes": 85068
+      },
+      {
+        "_path": "Library/usr/bin/rebase.exe",
+        "path_type": "hardlink",
+        "sha256": "f120ea0cec4dda727fddad68682ddd90b1ec350c124d4ab69661e2006193490d",
+        "sha256_in_prefix": "f120ea0cec4dda727fddad68682ddd90b1ec350c124d4ab69661e2006193490d",
+        "size_in_bytes": 829765
+      },
+      {
+        "_path": "Library/usr/bin/rebaseall",
+        "path_type": "hardlink",
+        "sha256": "e210e9f082c291d7aee38e9af2b1805a830b33a76102177a050aedd34ee035b5",
+        "sha256_in_prefix": "e210e9f082c291d7aee38e9af2b1805a830b33a76102177a050aedd34ee035b5",
+        "size_in_bytes": 7150
+      },
+      {
+        "_path": "Library/usr/bin/sdiff.exe",
+        "path_type": "hardlink",
+        "sha256": "a784027690a60b2a4e9086557633a9d51ea62b12cc3c8d22c2a7cc7e75d81ad3",
+        "sha256_in_prefix": "a784027690a60b2a4e9086557633a9d51ea62b12cc3c8d22c2a7cc7e75d81ad3",
+        "size_in_bytes": 50395
+      },
+      {
+        "_path": "Library/usr/bin/ssh-add.exe",
+        "path_type": "hardlink",
+        "sha256": "191adb72ec177796a12ca3fbc20999077a979a92445e56d1746303f2098f48b5",
+        "sha256_in_prefix": "191adb72ec177796a12ca3fbc20999077a979a92445e56d1746303f2098f48b5",
+        "size_in_bytes": 312658
+      },
+      {
+        "_path": "Library/usr/bin/ssh-agent.exe",
+        "path_type": "hardlink",
+        "sha256": "b8bd4eedbda5390b203edadbec9e93b900de5a4edbdf93f75cb4360ddfe13dd9",
+        "sha256_in_prefix": "b8bd4eedbda5390b203edadbec9e93b900de5a4edbdf93f75cb4360ddfe13dd9",
+        "size_in_bytes": 294138
+      },
+      {
+        "_path": "Library/usr/bin/ssh.exe",
+        "path_type": "hardlink",
+        "sha256": "80aef4634f418f826467314c38a73011092df21e3ee7502ce67dc08f060e7421",
+        "sha256_in_prefix": "80aef4634f418f826467314c38a73011092df21e3ee7502ce67dc08f060e7421",
+        "size_in_bytes": 675112
+      },
+      {
+        "_path": "Library/usr/libexec/getprocaddr32.exe",
+        "path_type": "hardlink",
+        "sha256": "7269b5462e394fda386e3a21cca412d0ec24cfe02aaa2431b18c3440b96f9e1b",
+        "sha256_in_prefix": "7269b5462e394fda386e3a21cca412d0ec24cfe02aaa2431b18c3440b96f9e1b",
+        "size_in_bytes": 296733
+      },
+      {
+        "_path": "Library/usr/libexec/getprocaddr64.exe",
+        "path_type": "hardlink",
+        "sha256": "f69e7cc8715413b815530f509814aa93b13aaf584309958af87fdd52644106e4",
+        "sha256_in_prefix": "f69e7cc8715413b815530f509814aa93b13aaf584309958af87fdd52644106e4",
+        "size_in_bytes": 324310
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/sdk",
+        "path_type": "hardlink",
+        "sha256": "22f41610dea842890955032af30efdb60e80f310e95a04e57ab36b10e0376923",
+        "sha256_in_prefix": "22f41610dea842890955032af30efdb60e80f310e95a04e57ab36b10e0376923",
+        "size_in_bytes": 746
+      },
+      {
+        "_path": "Library/usr/share/licenses/gcc-libs/RUNTIME.LIBRARY.EXCEPTION",
+        "path_type": "hardlink",
+        "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "sha256_in_prefix": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+        "size_in_bytes": 3324
+      },
+      {
+        "_path": "Library/usr/share/licenses/libsqlite/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "1e188e0cf2088da923bff80c76a9f13b7028d4688d2d49cdb10562718068ee98",
+        "sha256_in_prefix": "1e188e0cf2088da923bff80c76a9f13b7028d4688d2d49cdb10562718068ee98",
+        "size_in_bytes": 1527
+      },
+      {
+        "_path": "Library/usr/share/licenses/openssh/LICENCE",
+        "path_type": "hardlink",
+        "sha256": "05a4c25ef464e19656c5259bd4f4da8428efab01044f3541b79fbb3ff209350f",
+        "sha256_in_prefix": "05a4c25ef464e19656c5259bd4f4da8428efab01044f3541b79fbb3ff209350f",
+        "size_in_bytes": 15190
+      },
+      {
+        "_path": "Library/usr/share/licenses/zlib/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b8dc97ec24faf95f0f30bf2ab721dbdc30b32de1aa4a2a5853e56551c59d6f04",
+        "sha256_in_prefix": "b8dc97ec24faf95f0f30bf2ab721dbdc30b32de1aa4a2a5853e56551c59d6f04",
+        "size_in_bytes": 1215
+      },
+      {
+        "_path": "Library/usr/share/makepkg/lint_package/zzz_rm_stackdumps.sh",
+        "path_type": "hardlink",
+        "sha256": "97e89689d91747ddb5ee873ae864aebcbb8d0364a52fa198db1e439ee2965b9b",
+        "sha256_in_prefix": "97e89689d91747ddb5ee873ae864aebcbb8d0364a52fa198db1e439ee2965b9b",
+        "size_in_bytes": 313
+      },
+      {
+        "_path": "Library/usr/share/nano/git.nanorc",
+        "path_type": "hardlink",
+        "sha256": "17c90698d4dd52dd9f383e72aee54ecea0f62520baf56722de5c83285507c0d9",
+        "sha256_in_prefix": "17c90698d4dd52dd9f383e72aee54ecea0f62520baf56722de5c83285507c0d9",
+        "size_in_bytes": 2232
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "git",
+  "sha256": "8fc198a70a8720bd7cecc117b87d92b1d63a0bc04595b5f82afb421e060e5cec",
+  "size": 18937420,
+  "subdir": "win-64",
+  "timestamp": 1572029578741,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/anaconda/win-64/git-2.23.0-h6bb4b03_0.tar.bz2",
+  "version": "2.23.0"
+}

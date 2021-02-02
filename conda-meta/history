@@ -1,0 +1,8 @@
+==> 2021-02-01 20:59:21 <==
+# cmd: C:\Users\daniu\anaconda3\Scripts\conda-script.py create --name space_invaders
+# conda version: 4.9.2
+==> 2021-02-01 21:04:49 <==
+# cmd: C:\Users\daniu\anaconda3\Scripts\conda-script.py install -c anaconda git
+# conda version: 4.9.2
++anaconda/win-64::git-2.23.0-h6bb4b03_0
+# update specs: ['git']
